@@ -29,6 +29,8 @@ Microsoft Excel.
 
 🛠️ Macro to Clear All Filters with one click, making it easy to reset and explore new views
 
+📊 XLOOKUP to efficiently find corresponding values across different datasets
+
 
 🔑 Key Insights
 
