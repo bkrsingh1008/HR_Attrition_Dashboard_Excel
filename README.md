@@ -1,6 +1,6 @@
 # HR_Attrition_Dashboard_Excel
 
-📋 Overview
+📋 __Overview
 
 This project analyzes employee turnover (attrition) data for a company with 2,925 employees. The dashboard helps us understand why employees are leaving by exploring factors like job role, education, age group, and gender. The goal is to provide HR teams with insights to improve retention.
 
