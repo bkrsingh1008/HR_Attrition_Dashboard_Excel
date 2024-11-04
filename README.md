@@ -4,7 +4,7 @@
 
 This project analyzes employee turnover (attrition) data for a company with 2,925 employees. The dashboard helps us understand why employees are leaving by exploring factors like job role, education, age group, and gender. The goal is to provide HR teams with insights to improve retention.
 
-🎯 Project Goals
+🎯 **Project Goals**
 
 🔍 Analyze employee attrition trends to identify patterns and reasons for leaving.
 
@@ -13,7 +13,7 @@ This project analyzes employee turnover (attrition) data for a company with 2,92
 📈 Provide actionable insights to help lower attrition, especially in critical roles.
 
 
-🛠️ Tools Used
+🛠️ **Tools Used**
 
 Microsoft Excel.
 
@@ -32,7 +32,7 @@ Microsoft Excel.
 📊 XLOOKUP to efficiently find corresponding values across different datasets
 
 
-🔑 Key Insights
+🔑 **Key Insights**
 
 👥 Overall Attrition Rate: 17% of the workforce has left, equating to 492 employees.
 
@@ -47,7 +47,7 @@ Microsoft Excel.
 🏢 Department Trends: R&D experienced the highest attrition, possibly due to a competitive landscape, while HR had the lowest, indicating more stability in this department.
 
 
-🌟 Visual Highlights
+🌟 **Visual Highlights**
 
 👥 Total Employees and ⚖️ Attrition Rate gauges provide a quick overview of company health.
 
@@ -58,7 +58,7 @@ Microsoft Excel.
 🧳 Attrition by Business Travel pie chart highlights possible burnout from frequent travel.
 
 
-📂 Project Files
+📂 **Project Files**
 
 📊 Dataset: Contains fields like Job Role, Education Level, Business Travel, Distance from Home, and Performance Rating.
 
